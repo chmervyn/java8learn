@@ -1,0 +1,9 @@
+#ignore idea file
+.idea/*
+
+#ignore java compile files
+out/*
+
+#ignore project file
+*.iml
+
